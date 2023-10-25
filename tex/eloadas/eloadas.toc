@@ -1,0 +1,2 @@
+\nobreakspace {}\hfill \textbf {Oldal}\par 
+\contentsline {section}{\numberline {1}A gráfelmélet alapjai}{2}{}%
